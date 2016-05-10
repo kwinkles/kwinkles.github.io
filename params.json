@@ -1,6 +1,6 @@
 {
   "name": "Kwinkles.GitHub.io",
   "tagline": "Let's make a hardware.",
-  "body": "I am writing this blog to explore a bit with some hardware verification technologies that I don't yet know.  The plan is to design some basic hardware in Verilog, then test it with SystemVerilog and UVM.  The hardware won't be too complicated, as I am mostly trying to learn the ins and outs of UVM and the OOP features it provides.",
+  "body": "I am writing this blog to explore a bit with some hardware verification technologies that I don't yet know.  The plan is to design some basic hardware in Verilog, then test it with SystemVerilog and UVM.  I have some experience with OVM, but it's not that in-depth, and since OVM is not being updated as of version 2.1.2, UVM - which is based on OVM - is the next logical step.  The hardware won't be complicated, as I am mostly trying to learn the ins and outs of UVM and the OOP features it provides.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
